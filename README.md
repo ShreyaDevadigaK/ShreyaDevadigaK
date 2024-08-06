@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShreyaDevadigaK
-- 👀 I’m interested in C,Java,HTML
+- 👀 I’m interested in C,Java,HTML,CSS
 - 🌱 I’m currently learning React,Javascript
 - 📫 How to reach me **dcshreya1@gmail.com**
 
